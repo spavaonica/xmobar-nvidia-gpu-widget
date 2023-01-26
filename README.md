@@ -1,0 +1,1 @@
+# xmobar-nvidia-gpu-widget
